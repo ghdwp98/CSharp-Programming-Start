@@ -1,7 +1,7 @@
 ﻿namespace _03._Conditional
 {
     internal class Program
-    {
+    { 
         static void Main(string[] args)
         {
             /****************************************************************
