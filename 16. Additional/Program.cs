@@ -15,7 +15,7 @@
             str.ToUpper();                  // 대문자 변환
             str.Split(' ');                 // 문자열 나누기
             str.Replace('a', 'z');          // 문자 교체
-
+             
             int[] array = { 1, 2, 3, 4, 5 };
             array.Max();                    // 최대값
             array.Min();                    // 최소값

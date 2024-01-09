@@ -13,7 +13,7 @@ namespace _16._Additional
         // 대규모 프로젝트에서 작업하는 경우 분산하여 구현에 유용
 
         // 전투담당자 Player 소스
-        public partial class Player
+        public partial class Player 
         {
             private int hp;
 

@@ -12,7 +12,7 @@ namespace _16._Additional
         // 함수의 매개변수 순서와 무관하게 이름을 통해 호출
         void Profile(int id, string name, string phone) { }
 
-        void Main1()
+        void Main1() 
         {
             // 함수 호출시 이름을 명명하고 순서와 상관없이 호출 가능
             Profile(phone: "010-1111-2222", id: 1, name: "홍길동");

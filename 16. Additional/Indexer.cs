@@ -13,7 +13,7 @@ namespace _16._Additional
         public class IndexerArray
         {
             private int[] array = new int[10];
-
+             
             public int this[int index]
             {
                 get

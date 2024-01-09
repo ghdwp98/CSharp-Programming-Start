@@ -12,7 +12,7 @@ namespace _16._Additional
         // 클래스의 원래 형식을 수정하지 않고도 기존 형식에 함수를 추가할 수 있음
         // 상속을 통하여 만들지 않고도 추가적인 함수를 구현 가능
         // 정적함수에 첫번째 매개변수를 this 키워드 후 확장하고자 하는 자료형을 작성
-
+         
         public static int WordCount(this string str)
         {
             return str.Split(' ').Length;

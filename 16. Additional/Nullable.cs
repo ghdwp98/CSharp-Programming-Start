@@ -14,7 +14,7 @@ namespace _16._Additional
             // 값형식의 자료형들은 null을 가질 수 없음
             // 값형식에도 null을 할당할 수 있는 Nullable 타입을 지원
             bool? b = null;
-            int? i = 20;
+            int? i = 20; 
             if (b != null) Console.WriteLine(b);    // b 값이 null
             if (i.HasValue) Console.WriteLine(i);   // i 값이 있으므로 20 출력
 
