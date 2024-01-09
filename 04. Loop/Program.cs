@@ -3,7 +3,7 @@
     internal class Program
     {
         static void Main(string[] args)
-        {
+        { 
             /****************************************************************
              * 반복문 (Iteration)
              *
