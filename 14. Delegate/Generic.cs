@@ -15,7 +15,7 @@ namespace _14._Delegate
          **************************************************************************/
 
         // <Func 델리게이트>
-        // 반환형과 매개변수를 지정한 델리게이트
+        // 반환형과 매개변수를 지정한 델리게이트 
         // Func<매개변수1, 매개변수2, ..., 반환형>
         int Plus(int left, int right) { return left + right; }
         int Minus(int left, int right) { return left - right; }

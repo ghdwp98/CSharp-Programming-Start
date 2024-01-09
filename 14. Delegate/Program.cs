@@ -14,7 +14,7 @@
         public delegate float DelegateMethod1(float x, float y);
         public delegate void DelegateMethod2(string str);
 
-
+         
         public float Plus(float left, float right) { return left + right; }
         public float Minus(float left, float right) { return left - right; }
         public float Multi(float left, float right) { return left * right; }
