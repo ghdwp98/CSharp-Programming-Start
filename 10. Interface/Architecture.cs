@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _10._Interface
 {
-    internal class Architecture
+    internal class Architecture 
     {
         /**********************************************************************************
          * 추상클래스와 인터페이스
