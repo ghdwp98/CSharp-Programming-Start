@@ -3,7 +3,7 @@
     internal class Program
     {
         static void Main(string[] args)
-        {
+        { 
             /*****************************************************************
              * 자료형 (Data Type)
              * 
