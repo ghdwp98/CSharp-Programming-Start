@@ -8,7 +8,7 @@ namespace _11._Array
 {
     internal class StringClass
     {
-        // <string>
+        // <string> 
         // string은 문자들의 집합으로 표현됨
         // 내부적으로 문자 배열을 통해서 구현됨
         // 문자열은 텍스트를 나타내는 데 사용되는 char의 순차적 집합
