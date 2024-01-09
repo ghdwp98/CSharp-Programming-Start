@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace _09._OOP
 {
     internal class Encapsulation
-    {
+    { 
         /**********************************************************************
          * 캡슐화 (Encapsulation)
          *
