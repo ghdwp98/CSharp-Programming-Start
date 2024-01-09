@@ -11,7 +11,7 @@
 
         // <이벤트 선언>
         // 델리게이트 변수 앞에 event 키워드를 추가하여 이벤트로 선언
-        public class Player
+        public class Player 
         {
             public event Action OnGetCoin;      // 이벤트
 
